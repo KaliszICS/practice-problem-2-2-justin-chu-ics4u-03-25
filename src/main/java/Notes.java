@@ -1,3 +1,4 @@
+import java.util.Arrays;
 
 class Notes {
 	public static void main(String[] args) {
